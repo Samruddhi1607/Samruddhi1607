@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Samruddhi Amravatkar
 - 👀 I’m interested in Front End Development 
 - 🌱 I’m currently Exploring Front End Technologies 
-- 📫 How to reach me msamruddhi77@gmail.com 
+- 📫 How to reach me samruddhiamravatkar16@gmail.com 
 
 
 <!---
